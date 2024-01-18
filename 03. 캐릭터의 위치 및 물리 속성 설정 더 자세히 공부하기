@@ -1,0 +1,30 @@
+# 📍캐릭터의 위치 및 물리 속성 설정 더 자세히 살펴보기
+- restitution (탄성)
+   ```swift
+   character.physicsBody?.restitution = 0
+   ```
+   탄성은 두 물체가 충돌할 때 튕기는 정도를 나타냅니다. 여기서는 restitution을 0으로 설정하여 캐릭터가 충돌 시 튕기지 않도록 만듭니다.
+
+  - linearDamping (선형 감속):
+   ```swift
+   character.physicsBody?.linearDamping = 0.1
+   ```
+   선형 감속은 물리적 객체가 이동할 때 속도 감속을 나타냅니다. 여기서는 linearDamping을 0.1로 설정하여 캐릭터의 이동이 서서히 감속되도록 만듭니다.
+
+  - allowsRotation (회전 허용):
+ ```swift
+character.physicsBody?.allowsRotation = false
+ ```
+allowsRotation을 false로 설정하면 물리 시뮬레이션에 의해 캐릭터가 회전되지 않도록 합니다.
+
+- mass (질량):
+   ```swift
+   character.physicsBody?.mass = 0.1
+    ```
+mass는 물리적 객체의 질량을 나타냅니다. 여기서는 캐릭터의 질량을 0.1로 설정합니다.
+
+- isDynamic (동적 여부):
+   ```swift
+   character.physicsBody?.isDynamic = false
+   ```
+   isDynamic 속성은 물리 시뮬레이션에서 객체가 움직이는지 여부를 나타냅니다. false로 설정하면 캐릭터는 물리 시뮬레이션에 의해 영향을 받지만 직접적으로 움직이지 않습니다. 일종의 정적인 역할을 합니다.

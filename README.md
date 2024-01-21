@@ -8,3 +8,4 @@
 - 🧊 [06. didMove 함수에 터치 (점프 기능)넣기](https://github.com/Acasiax/AuroraSkater-Log/blob/main/06.%20didMove%20함수에%20터치%20(점프%20기능)넣기.md)
 - 🧊 [07. 비트마스크로 충돌 검사하기](https://github.com/Acasiax/AuroraSkater-Log/blob/main/07.%20비트마스크로%20충돌%20검사하기.md)
 - 🧊 [08. 아스팔트 SKPhysicsBody 설정하기](https://github.com/Acasiax/AuroraSkater-Log/blob/main/07.%20비트마스크로%20충돌%20검사하기.md)
+- 🧊 [09. 점프 후 재점프 함수 설정하기](https://github.com/Acasiax/AuroraSkater-Log/blob/main/07.%20비트마스크로%20충돌%20검사하기.md)

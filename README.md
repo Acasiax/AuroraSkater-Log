@@ -6,4 +6,4 @@
 - 🧊 [04. 2D 게임에서 지면의 이동을 처리하는 함수 설정하기](https://github.com/Acasiax/AuroraSkater-Log/blob/main/04.%202D%20게임에서%20지면의%20이동을%20처리하는%20함수%20설정하기.md)
 - 🧊 [05. 아스팔트 땅 업데이트 함수 설정](https://github.com/Acasiax/AuroraSkater-Log/blob/main/05.%20아스팔트%20땅%20업데이트%20함수%20설정.md)
 - 🧊 [06. didMove 함수에 터치 (점프 기능)넣기](https://github.com/Acasiax/AuroraSkater-Log/blob/main/06.%20didMove%20함수에%20터치%20(점프%20기능)넣기.md)
-- 🧊 [07. 비트마스크로 충돌 검사하기](https://github.com/Acasiax/AuroraSkater-Log/blob/main/06.%20didMove%20함수에%20터치%20(점프%20기능)넣기.md)
+- 🧊 [07. 비트마스크로 충돌 검사하기](https://github.com/Acasiax/AuroraSkater-Log/blob/main/07.%20비트마스크로%20충돌%20검사하기.md)
